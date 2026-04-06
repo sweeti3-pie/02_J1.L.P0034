@@ -1,1 +1,2 @@
 # 02_J1.L.P0034
+The Homestay Booking Manager is a Java-based application designed to streamline the management of travel services, specifically focusing on homestay accommodations and tour packages. The system allows administrators to manage tour data, process customer bookings, and generate financial or occupancy statistics. By utilizing a file-based persistence system, the application ensures that data is retained across different sessions, providing a reliable tool for small-to-medium travel agencies.
